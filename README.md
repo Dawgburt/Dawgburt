@@ -3,10 +3,8 @@
 - 💞️ I’m looking to collaborate on engineering projects and crypto projects
 - 📫 How to reach me @Dawgburt on X
 
-I am a computer architecture / SOC design / validation / verification engineer.
-Estimated graduation 
-BS December 2024
-MS December 2025
+Bachelor of Science - Computer Engineering - Graduated 2024
+Master of Science - SOC & FPGA Design - Graduating 2025
 
 
 
